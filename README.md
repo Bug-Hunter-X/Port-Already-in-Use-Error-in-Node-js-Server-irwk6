@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when starting a Node.js HTTP server: the 'EADDRINUSE' error.  The bug.js file contains the faulty code, attempting to bind to a port already in use. The bugSolution.js file provides a solution using the 'listen' event.
